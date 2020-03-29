@@ -1,0 +1,10 @@
+jwt:
+  header: Authorization
+  expires_in: 30000
+  secret: EdataChase1323
+
+  server:
+    compression:
+      enabled: true
+      mime-types: text/html,text/css,application/javascript,application/json
+
